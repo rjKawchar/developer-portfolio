@@ -31,6 +31,18 @@
     font-weight: 700;
     padding: 18px 35px;
     color: white;
+    margin-right: 30px;
+}
+
+.btn-primary1 {
+    Height: 64px;
+    background: #FFF8F3;
+    border-radius: 5px;
+    font-size: 20px;
+    border: 1px #FD6E0A solid;
+    font-weight: 700;
+    padding: 18px 35px;
+    color: #FD6E0A;
 }
 
 nav {
